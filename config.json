@@ -1,0 +1,15 @@
+{
+	"Token": "",
+	"Prefix": "$",
+
+	"Channel-Names": ["protocol runs cord", "protocol was here", "protocol owns u"], 
+	"Server-Names": ["Alpha Nuker Runs Cord"],
+	"Role-Names": ["gay"],
+	"Reason": ["nuked by protocol", "alpha on top"],
+
+	"Spam": true,
+
+	"Webhook-Names": ["PROTOCOL WAS HERE", "PROTOCOL RUNS CORD"],
+	"Spam-Messages": ["@everyone protocol owns u", "@everyone protocol runs cord", "@everyone protocol on top", "@everyone Alpha Nuker on top"],
+	"Spam-Amount": 5000
+}
